@@ -1,0 +1,10 @@
+asgiref==3.2.10
+Django==3.1.2
+django-appconf==1.0.4
+django-measurement==3.2.3
+djangorestframework==3.12.1
+measurement==3.2.0
+mpmath==1.1.0
+pytz==2020.1
+sqlparse==0.4.1
+sympy==1.6.2
